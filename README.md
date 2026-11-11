@@ -29,7 +29,7 @@ If you have a Google account:
 
 Use the following URL:
 
-https://colab.research.google.com/github/r-antoniomg/uwaterloo-history-workshop/blob/main/uwaterloo-history-workshop.ipynb
+https://colab.research.google.com/github/r-antoniomg/2026-uwaterloo-graduate-workshop/blob/main/2026-uwaterloo-grad-workshop.ipynb
 
 #### Option 3.2 : Download the uwaterloo-history-workshop.ipynb file and then open it in [Google Colab](https://colab.research.google.com/)
 
